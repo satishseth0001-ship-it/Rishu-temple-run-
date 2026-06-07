@@ -1,0 +1,6 @@
+{
+  "name": "Rishu Temple Run",
+  "description": "An endless runner concept inspired by Temple Run with next-level graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
